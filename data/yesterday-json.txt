@@ -1,0 +1,56 @@
+xxverse
+["imaj", "w", 2, 0.5], ["imaj", "c", 0, 0.25], ["imaj", "c", 0, 2.25], ["imaj", "n", null, 1],
+["bviimaj7", "n", null, 1], ["bviimaj7", "w", 4, 0.5], ["bviimaj7", "w", 6, 0.5], ["iiimaj7", "w", 8, 0.25], ["iiimaj7", "c", 9, 0.75], ["iiimaj7", "n", 11, 0.5], ["iiimaj7", "n", 12, 0.5],
+["vimin", "w", 11, 1.5], ["vimin", "w", 9, 0.5], ["vimin", "c", 9, 1], ["vimin/vmaj", "c", 9, 1],
+["ivmaj", "n", null, 1], ["ivmaj", "w", 9, 0.25], ["ivmaj", "w", 9, 0.75], ["vmaj7", "w", 7, 0.5], ["vmaj7", "w", 5, 0.5], ["vmaj7", "w", 4, 0.5], ["vmaj7", "w", 2, 0.5],
+["imaj", "w", 5, 1], ["imaj", "w", 4, 0.5], ["imaj", "w", 4, 1.5], ["imaj/viidim", "n", null, 0.5], ["imaj/viidim", "w", 2, 0.5],
+["vimin", "w", 0, 1], ["vimin", "w", 4, 0.5], ["vimin", "c", 2, 0.5], ["iimaj", "c", 2, 1], ["iimaj", "n", null, 0.5], ["iimaj", "w", -3, 0.5],
+["ivmaj", "w", 0, 1], ["imaj", "c", 4, 0.5], ["imaj", "c", 4, 1.5], ["imaj", "n", null, 1],
+
+xxverse
+["imaj", "w", 2, 0.5], ["imaj", "c", 0, 0.25], ["imaj", "c", 0, 2.25], ["imaj", "n", null, 1],
+["bviimaj7", "n", null, 1], ["bviimaj7", "w", 4, 0.5], ["bviimaj7", "w", 6, 0.5], ["iiimaj7", "w", 8, 0.25], ["iiimaj7", "c", 9, 0.75], ["iiimaj7", "n", 11, 0.5], ["iiimaj7", "n", 12, 0.5],
+["vimin", "w", 11, 1.5], ["vimin", "w", 9, 0.5], ["vimin", "c", 9, 1], ["vimin/vmaj", "c", 9, 1],
+["ivmaj", "n", null, 1], ["ivmaj", "w", 9, 0.25], ["ivmaj", "w", 9, 0.75], ["vmaj7", "w", 7, 0.5], ["vmaj7", "w", 5, 0.5], ["vmaj7", "w", 4, 0.5], ["vmaj7", "w", 2, 0.5],
+["imaj", "w", 5, 1], ["imaj", "w", 4, 0.5], ["imaj", "w", 4, 1.5], ["imaj/viidim", "n", null, 0.5], ["imaj/viidim", "w", 2, 0.5],
+["vimin", "w", 0, 1], ["vimin", "w", 4, 0.5], ["vimin", "c", 2, 0.5], ["iimaj", "c", 2, 1], ["iimaj", "n", null, 0.5], ["iimaj", "w", -3, 0.5],
+["ivmaj", "w", 0, 1], ["imaj", "c", 4, 0.5], ["imaj", "c", 4, 1.5], ["imaj", "n", null, 1],
+
+xxchorus
+["viimin/iiimaj", "w", 4, 2], ["iiimaj7", "w", 4, 2],
+["vimin", "w", 9, 1], ["vmaj", "w", 11, 1], ["ivmaj", "w", 12, 1], ["iiimin", "w", 11, 0.5], ["iiimin", "w", 9, 0.5],
+["iimin", "c", 9, 0.5], ["iimin", "w", 11, 1], ["iimin", "w", 9, 0.5], ["vmaj7", "w", 7, 1], ["vmaj7", "c", 9, 0.5], ["vmaj7", "w", 7, 0.5],
+["imaj", "c", 4, 2], ["imaj", "n", null, 2],
+["viimin/iiimaj", "w", 4, 2], ["iiimaj7", "w", 4, 2],
+["vimin", "w", 9, 1], ["vmaj", "c", 11, 1], ["ivmaj", "w", 12, 1], ["iiimin", "w", 11, 0.5], ["iiimin", "w", 9, 0.5],
+["iimin", "c", 9, 0.5], ["iimin", "w", 11, 1], ["iimin", "w", 9, 0.5], ["vmaj7", "w", 7, 1], ["vmaj7", "c", 11, 1], 
+["imaj", "c", 12, 3], ["imaj", "n", null, 1],
+
+xxverse
+["imaj", "w", 2, 0.5], ["imaj", "c", 0, 0.25], ["imaj", "c", 0, 2.25], ["imaj", "n", null, 1],
+["bviimaj7", "n", null, 1], ["bviimaj7", "w", 4, 0.5], ["bviimaj7", "w", 6, 0.5], ["iiimaj7", "w", 8, 0.25], ["iiimaj7", "c", 9, 0.75], ["iiimaj7", "n", 11, 0.5], ["iiimaj7", "n", 12, 0.5],
+["vimin", "w", 11, 1.5], ["vimin", "w", 9, 0.5], ["vimin", "c", 9, 1], ["vimin/vmaj", "c", 9, 1],
+["ivmaj", "n", null, 1], ["ivmaj", "w", 9, 0.25], ["ivmaj", "w", 9, 0.75], ["vmaj7", "w", 7, 0.5], ["vmaj7", "w", 5, 0.5], ["vmaj7", "w", 4, 0.5], ["vmaj7", "w", 2, 0.5],
+["imaj", "w", 5, 1], ["imaj", "w", 4, 0.5], ["imaj", "w", 4, 1.5], ["imaj/viidim", "n", null, 0.5], ["imaj/viidim", "w", 2, 0.5],
+["vimin", "w", 0, 1], ["vimin", "w", 4, 0.5], ["vimin", "c", 2, 0.5], ["iimaj", "c", 2, 1], ["iimaj", "n", null, 0.5], ["iimaj", "w", -3, 0.5],
+["ivmaj", "w", 0, 1], ["imaj", "c", 4, 0.5], ["imaj", "c", 4, 1.5], ["imaj", "n", null, 1],
+
+xxchorus
+["viimin/iiimaj", "w", 4, 2], ["iiimaj7", "w", 4, 2],
+["vimin", "w", 9, 1], ["vmaj", "w", 11, 1], ["ivmaj", "w", 12, 1], ["iiimin", "w", 11, 0.5], ["iiimin", "w", 9, 0.5],
+["iimin", "c", 9, 0.5], ["iimin", "w", 11, 1], ["iimin", "w", 9, 0.5], ["vmaj7", "w", 7, 1], ["vmaj7", "c", 9, 0.5], ["vmaj7", "w", 7, 0.5],
+["imaj", "c", 4, 2], ["imaj", "n", null, 2],
+["viimin/iiimaj", "w", 4, 2], ["iiimaj7", "w", 4, 2],
+["vimin", "w", 9, 1], ["vmaj", "c", 11, 1], ["ivmaj", "w", 12, 1], ["iiimin", "w", 11, 0.5], ["iiimin", "w", 9, 0.5],
+["iimin", "c", 9, 0.5], ["iimin", "w", 11, 1], ["iimin", "w", 9, 0.5], ["vmaj7", "w", 7, 1], ["vmaj7", "c", 11, 1], 
+["imaj", "c", 12, 3], ["imaj", "n", null, 1],
+
+xxverse
+["imaj", "w", 2, 0.5], ["imaj", "c", 0, 0.25], ["imaj", "c", 0, 2.25], ["imaj", "n", null, 1],
+["bviimaj7", "n", null, 1], ["bviimaj7", "w", 4, 0.5], ["bviimaj7", "w", 6, 0.5], ["iiimaj7", "w", 8, 0.25], ["iiimaj7", "c", 9, 0.75], ["iiimaj7", "n", 11, 0.5], ["iiimaj7", "n", 12, 0.5],
+["vimin", "w", 11, 1.5], ["vimin", "w", 9, 0.5], ["vimin", "c", 9, 1], ["vimin/vmaj", "c", 9, 1],
+["ivmaj", "n", null, 1], ["ivmaj", "w", 9, 0.25], ["ivmaj", "w", 9, 0.75], ["vmaj7", "w", 7, 0.5], ["vmaj7", "w", 5, 0.5], ["vmaj7", "w", 4, 0.5], ["vmaj7", "w", 2, 0.5],
+["imaj", "w", 5, 1], ["imaj", "w", 4, 0.5], ["imaj", "w", 4, 1.5], ["imaj/viidim", "n", null, 0.5], ["imaj/viidim", "w", 2, 0.5],
+["vimin", "w", 0, 1], ["vimin", "w", 4, 0.5], ["vimin", "c", 2, 0.5], ["iimaj", "c", 2, 1], ["iimaj", "n", null, 0.5], ["iimaj", "w", -3, 0.5],
+["ivmaj", "w", 0, 1], ["imaj", "c", 4, 0.5], ["imaj", "c", 4, 1.5], ["imaj", "n", null, 1],
+
